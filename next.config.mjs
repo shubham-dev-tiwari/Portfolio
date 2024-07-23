@@ -61,7 +61,7 @@ const nextConfig = {
       },
       {
         protocol:"https",
-        hostname:"media.istockphoto.com",
+        hostname:"unblast.com",
     
       },
       

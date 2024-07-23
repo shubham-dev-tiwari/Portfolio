@@ -78,15 +78,15 @@ const items = [
     color: "from-purple-300 to-red-300",
     title: "Ritu-Chakra",
     desc:"The weather forecast application allows users to input a city name and retrieve current weather information along with a 5-day forecast. It features a clean and responsive design, making it user-friendly",
-    img: "https://media.istockphoto.com/id/473039683/vector/wheather-icons.jpg?s=1024x1024&w=is&k=20&c=uxUrwRM2KeQAsHEWPZidONnmNQ0Z38OIF62JiVViwsU=",
-    link: "https://github.com/shubh518/Ritu-chakra/tree/master",
+    img: "https://unblast.com/wp-content/uploads/2019/09/Weather-App-Icons-2.jpg",
+    link: "https://ritu-chakra.vercel.app/",
   },
   {
     id: 10,
     color: "from-purple-300 to-red-300",
     title: "Ritu-Chakra",
     desc:"The weather forecast application allows users to input a city name and retrieve current weather information along with a 5-day forecast. It features a clean and responsive design, making it user-friendly",
-    img: "https://media.istockphoto.com/id/473039683/vector/wheather-icons.jpg?s=1024x1024&w=is&k=20&c=uxUrwRM2KeQAsHEWPZidONnmNQ0Z38OIF62JiVViwsU=",
+    img: "",
     link: "https://github.com/shubh518/Ritu-chakra/tree/master",
   },
 ];
