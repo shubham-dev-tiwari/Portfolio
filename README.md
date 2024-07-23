@@ -1,33 +1,75 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+T# Shubham Tiwari's Portfolio Website
+
+Welcome to my portfolio website repository! 🌟 This project showcases my work, skills, and experience as a web developer. Feel free to explore and get to know more about the projects I’ve worked on.
+
+## Live Demo
+
+Check out the live version of the portfolio website here: [Shubham Tiwari's Portfolio](https://portfolio-shubham-tiwaris-projects-f7999503.vercel.app/)
+
+## Features
+
+- **Responsive Design:** The website is optimized for a range of devices, from desktops to mobile phones.
+- **Modern UI/UX:** Utilizes Tailwind CSS for styling and Framer Motion for smooth animations.
+- **Server-Side Rendering:** Built with Next.js for efficient server-side rendering and static site generation.
+
+## Technologies Used
+
+- **React:** JavaScript library for building user interfaces.
+- **Next.js:** React framework for server-side rendering and static site generation.
+- **Tailwind CSS:** Utility-first CSS framework for styling.
+- **Framer Motion:** Animation library for smooth and interactive animations.
 
 ## Getting Started
 
-First, run the development server:
+To run this project locally, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. **Clone the Repository:**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    ```bash
+    git clone https://github.com/shubham-dev-tiwari/portfolio-website.git
+    ```
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+2. **Navigate to the Project Directory:**
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+    ```bash
+    cd portfolio-website
+    ```
 
-## Learn More
+3. **Install Dependencies:**
 
-To learn more about Next.js, take a look at the following resources:
+    ```bash
+    npm install
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. **Run the Development Server:**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+    ```bash
+    npm run dev
+    ```
+
+    Open your browser and visit `http://localhost:3000` to see the website in action.
+
+## Contributing
+
+Feel free to open an issue or submit a pull request if you have any suggestions or improvements!
+
+## Contact
+
+If you have any questions or would like to connect, please reach out to me:
+
+- **Email:** shubhamtiwaridevlog@gmail.com
+- **LinkedIn:** [Shubham Tiwari](https://linkedin.com/in/shubham-dev-tiwari/)
+- **GitHub:** [shubham-dev-tiwari](https://github.com/shubham-dev-tiwari)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Thank you for visiting my portfolio! 🚀
+
+
 
 ## Deploy on Vercel
 
